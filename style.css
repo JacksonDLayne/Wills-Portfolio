@@ -45,13 +45,13 @@ nav{
 }
 
 a{
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     text-decoration-color: white;
 }
 
 a:hover{
-    color: black;
+    color: red;
     text-decoration:underline;
     text-underline-offset: 1rem;
 }
